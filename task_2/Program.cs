@@ -19,5 +19,3 @@ else
 // string result = (num1 % num2 == 0) ? "кратно" : ($"не кратно, остаток {num1 % num2}");
 // System.Console.WriteLine(result);
 
-
-

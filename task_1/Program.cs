@@ -9,7 +9,7 @@ string chr = Convert.ToString(num);
 System.Console.WriteLine(chr);
 System.Console.WriteLine($"{chr[0]}{chr[^1]}");
 
-
+System.Console.WriteLine(chr[0] + chr[^1]);
 
 
 
